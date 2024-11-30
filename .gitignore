@@ -1,0 +1,35 @@
+# .env file
+.env
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Vendor
+/vendor/
+
+# Build output directories
+/build/
+/bin/
+/obj/
+
+# Go workspace
+.go-build/
+/go-cache/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# Log files
+*.log
+
+# Temporary files
+*~
+*.bak
+*.tmp
